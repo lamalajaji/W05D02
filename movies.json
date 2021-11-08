@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "lalaland", "isFav": false, "isDeleted": false },
+  { "id": 2, "name": "lalaland", "isFav": true, "isDeleted": false },
+  { "id": 3, "name": "lalaland", "isFav": true, "isDeleted": false },
+  { "id": 4, "name": "lalaland", "isFav": false, "isDeleted": true }
+]
